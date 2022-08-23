@@ -4,8 +4,8 @@
             "codigo": "0001-C",
             "categoria": "cliente",
             "status": "ativo",
-            "dia": 01,
-            "mes": 05,
+            "dia": 1,
+            "mes": 5,
             "ano": 2020,
         }
     ],
@@ -15,14 +15,14 @@
             "nascimento": [
                 {
                     "dia": 14,
-                    "mes": 03,
+                    "mes": 3,
                     "ano": 1879
                 }
             ],
             "cpf": "999.999.999-99",
             "endereco": [
                 {
-                    "cep": 01517100,
+                    "cep": 1517100,
                     "rua": "Viaduto 31 de Março",
                     "bairro": "Liberdade",
                     "cidade": "São paulo",
