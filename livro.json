@@ -6,7 +6,7 @@
             "categoria": "Livro",
             "status": "vendido",
             "dia": 22,
-            "mes": 05,
+            "mes": 5,
             "ano": 2022
         }
     ],
@@ -27,7 +27,7 @@
         {
             "cliente": "0001-C",
             "dia": 22,
-            "mes": 05,
+            "mes": 5,
             "ano": 2022,
             "endereco": [
                 {
@@ -52,7 +52,7 @@
             "categoria": "Livro",
             "status": "vendido",
             "dia": 23,
-            "mes": 06,
+            "mes": 6,
             "ano": 2022
         }
     ],
@@ -73,7 +73,7 @@
         {
             "cliente": "0004-C",
             "dia": 10,
-            "mes": 05,
+            "mes": 5,
             "ano": 2022,
             "endereco": [
                 {
@@ -98,7 +98,7 @@
             "categoria": "Livro",
             "status": "estoque",
             "dia": 22,
-            "mes": 04,
+            "mes": 4,
             "ano": 2022
         }
     ],
@@ -143,7 +143,7 @@
             "categoria": "Livro",
             "status": "estoque",
             "dia": 22,
-            "mes": 05,
+            "mes": 5,
             "ano": 2022
         }
     ],
@@ -188,7 +188,7 @@
             "categoria": "Livro",
             "status": "estoque",
             "dia": 22,
-            "mes": 05,
+            "mes": 5,
             "ano": 2022
         }
     ],
