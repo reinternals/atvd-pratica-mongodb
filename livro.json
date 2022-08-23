@@ -1,0 +1,269 @@
+
+{
+    "cadastro": [
+        {
+            "codigo": "0001-P",
+            "categoria": "Livro",
+            "status": "vendido",
+            "dia": 22,
+            "mes": 05,
+            "ano": 2022
+        }
+    ],
+    "informacao": [
+        {
+            "titulo": "O homem mais rico da Babilônia",
+            "autor": "George S Clason",
+            "edicao": "Padrão",
+            "ano": 2017,
+            "valor": 10.90,
+            "editora": "HarperCollins",
+            "idioma": "Português",
+            "paginas": 190
+        }
+    ],
+    "descricao": "Com mais de dois milhões de exemplares vendidos no mundo todo, O homem mais rico da Babilônia é um clássico sobre como multiplicar riqueza e solucionar problemas financeiros. Baseando-se nos segredos de sucesso dos antigos babilônicos",
+    "entrega": [
+        {
+            "cliente": "0001-C",
+            "dia": 22,
+            "mes": 05,
+            "ano": 2022,
+            "endereco": [
+                {
+                    "cep": 01517100,
+                    "rua": "Viaduto 31 de Março",
+                    "bairro": "Liberdade",
+                    "cidade": "São paulo",
+                    "UF": "SP"
+                }
+            ]
+        }
+    ],
+    "imagem": "Link_imagem_aqui",
+    "recomendacao": ["recomendacao_1", "recomendacao_2", "recomendacao_3", "recomendacao_4", "recomendacao_5"]
+}
+
+
+{
+    "cadastro": [
+        {
+            "codigo": "0002-P",
+            "categoria": "Livro",
+            "status": "vendido",
+            "dia": 23,
+            "mes": 06,
+            "ano": 2022
+        }
+    ],
+    "informacao": [
+        {
+            "titulo": "Um Milhão de Finais Felizes",
+            "autor": "Vitor Martins",
+            "edicao": "Portuguese",
+            "ano": 2021,
+            "valor": 7.87,
+            "editora": "Globo Livros",
+            "idioma": "Português",
+            "paginas": 352
+        }
+    ],
+    "descricao": "Jonas não sabe muito bem o que fazer da vida. Entre suas leituras e ideias para livros anotadas em um caderninho de bolso, ele precisa dar conta de seus turnos no Rocket Café e ainda lidar com o conservadorismo de seus pais",
+    "entrega": [
+        {
+            "cliente": "0004-C",
+            "dia": 10,
+            "mes": 05,
+            "ano": 2022,
+            "endereco": [
+                {
+                    "cep": 65010220,
+                    "rua": "Conjunto dos Ferroviários",
+                    "bairro": "Centro",
+                    "cidade": "São Luís",
+                    "UF": "MA"
+                }
+            ]
+        }
+    ],
+    "imagem": "Link_imagem_aqui",
+    "recomendacao": ["recomendacao_1", "recomendacao_2", "recomendacao_3", "recomendacao_4", "recomendacao_5"]
+}
+
+
+{
+    "cadastro": [
+        {
+            "codigo": "0003-P",
+            "categoria": "Livro",
+            "status": "estoque",
+            "dia": 22,
+            "mes": 04,
+            "ano": 2022
+        }
+    ],
+    "informacao": [
+        {
+            "titulo": "Sistemas Operacionais Modernos",
+            "autor": "Andrew S. Tanenbaum",
+            "edicao": "4",
+            "ano": 2015,
+            "valor": 225.25,
+            "editora": "Pearson Universidades",
+            "idioma": "Português",
+            "paginas": 864
+        }
+    ],
+    "descricao": "A 4ª edição de Sistemas operacionais modernos foi extensamente revisada e atualizada para incorporar os últimos desenvolvimentos em tecnologias de sistemas operacionais. Além de tratar do sistema UNIX, o livro traz como novidade a abordagem do Windows 8 e 8.1, assim como um foco maior em Linux e a introdução da plataforma Android.",
+    "entrega": [
+        {
+            "dia": "",
+            "mes": "",
+            "ano": "",
+            "endereco": [
+                {
+                    "cep": "",
+                    "rua": "",
+                    "bairro": "",
+                    "cidade": "",
+                    "UF": ""
+                }
+            ]
+        }
+    ],
+    "imagem": "Link_imagem_aqui",
+    "recomendacao": ["recomendacao_1", "recomendacao_2", "recomendacao_3", "recomendacao_4", "recomendacao_5"]
+}
+
+
+{
+    "cadastro": [
+        {
+            "codigo": "0004-P",
+            "categoria": "Livro",
+            "status": "estoque",
+            "dia": 22,
+            "mes": 05,
+            "ano": 2022
+        }
+    ],
+    "informacao": [
+        {
+            "titulo": "Organização Estruturada de Computadores",
+            "autor": "Andrew S. Tanenbaum",
+            "edicao": "6",
+            "ano": 2013,
+            "valor": 211.20,
+            "editora": "Pearson Universidades",
+            "idioma": "Português",
+            "paginas": 624
+        }
+    ],
+    "descricao": "Esta sexta edição traz o que há de mais moderno em termos de organização estruturada de computadores, apresentando as terminologias, tecnologias e tendências mais recentes em organização e arquitetura de computadores",
+    "entrega": [
+        {
+            "dia": "",
+            "mes": "",
+            "ano": "",
+            "endereco": [
+                {
+                    "cep": "",
+                    "rua": "",
+                    "bairro": "",
+                    "cidade": "",
+                    "UF": ""
+                }
+            ]
+        }
+    ],
+    "imagem": "Link_imagem_aqui",
+    "recomendacao": ["recomendacao_1", "recomendacao_2", "recomendacao_3", "recomendacao_4", "recomendacao_5"]
+}
+
+
+{
+    "cadastro": [
+        {
+            "codigo": "0005-P",
+            "categoria": "Livro",
+            "status": "estoque",
+            "dia": 22,
+            "mes": 05,
+            "ano": 2022
+        }
+    ],
+    "informacao": [
+        {
+            "titulo": "Redes de Computadores",
+            "autor": "Andrew S. Tanenbaum",
+            "edicao": "6",
+            "ano": 2021,
+            "valor": 216.56,
+            "editora": "Bookman",
+            "idioma": "Português",
+            "paginas": 624
+        }
+    ],
+    "descricao": "Nesta que é a bíblia de redes de computadores, Tanenbaum, Feamster & Wetherall explicam o funcionamento das redes de dentro para fora. Isto é, começam com a camada física das redes, dos computadores e dos sistemas de transmissão e vão até às aplicações. Os capítulos  apresentam os conceitos-chave e são ilustrados por exemplos de redes reais: Internet, redes sem fio, incluindo LANs sem fio",
+    "entrega": [
+        {
+            "dia": "",
+            "mes": "",
+            "ano": "",
+            "endereco": [
+                {
+                    "cep": "",
+                    "rua": "",
+                    "bairro": "",
+                    "cidade": "",
+                    "UF": ""
+                }
+            ]
+        }
+    ],
+    "imagem": "Link_imagem_aqui",
+    "recomendacao": ["recomendacao_1", "recomendacao_2", "recomendacao_3", "recomendacao_4", "recomendacao_5"]
+}
+
+{
+    "cadastro": [
+        {
+            "codigo": "0006-P",
+            "categoria": "informática",
+            "status": "vendido",
+            "dia": 20,
+            "mes": 10,
+            "ano": 2022
+        }
+    ],
+    "informacao": [
+        {
+            "fabricante": "Dell",
+            "modelo": "Alienware m15 R6",
+            "tela": "G-SYNC de 15”",
+            "processador": "Intel® Core™ de 11ª geração até i7-11800H",
+            "placa": "NVIDIA® GeForce até RTX™ 3070 8GB GDDR6",
+            "ram": "32gb"
+        }
+    ],
+    "descricao": "As máquinas Alienware são construídas com inovações térmicas sem precedentes para eliminar o calor com eficiência e obter o máximo desempenho. Com tecnologia Cryo-Tech avançada e regulação de voltagem hipereficiente, você vai revoluionar suas maratonas de jogos.",
+    "entrega": [
+        {
+            "cliente": "",
+            "dia": "",
+            "mes": "",
+            "ano": "",
+            "endereco": [
+                {
+                    "cep": "",
+                    "rua": "",
+                    "bairro": "",
+                    "cidade": "",
+                    "UF": ""
+                }
+            ]
+        }
+    ],
+    "imagem": "Link_imagem_aqui",
+    "recomendacao": ["recomendacao_1", "recomendacao_2", "recomendacao_3", "recomendacao_4", "recomendacao_5"]
+}

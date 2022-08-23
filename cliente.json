@@ -1,0 +1,179 @@
+{
+    "cadastro": [
+        {
+            "codigo": "0001-C",
+            "categoria": "cliente",
+            "status": "ativo",
+            "dia": 01,
+            "mes": 05,
+            "ano": 2020,
+        }
+    ],
+    "informacao": [
+        {
+            "nome": "Albert einstein",
+            "nascimento": [
+                {
+                    "dia": 14,
+                    "mes": 03,
+                    "ano": 1879
+                }
+            ],
+            "cpf": "999.999.999-99",
+            "endereco": [
+                {
+                    "cep": 01517100,
+                    "rua": "Viaduto 31 de Março",
+                    "bairro": "Liberdade",
+                    "cidade": "São paulo",
+                    "UF": "SP"
+                }
+            ],
+            "historico": ["0001-P"]
+        }
+    ]
+}
+
+{
+    "cadastro": [
+        {
+            "codigo": "0002-C",
+            "categoria": "cliente",
+            "status": "ativo",
+            "dia": 13,
+            "mes": 12,
+            "ano": 2020,
+        }
+    ],
+    "informacao": [
+        {
+            "nome": "Elionor clovis barreto",
+            "nascimento": [
+                {
+                    "dia": 01,
+                    "mes": 05,
+                    "ano": 1999
+                }
+            ],
+            "cpf": "888.888.888-88",
+            "endereco": [
+                {
+                    "cep": 77001002,
+                    "rua": "Praça Girassóis",
+                    "bairro": "Plano Diretor Norte",
+                    "cidade": "Palmas",
+                    "UF": "TO"
+                }
+            ],
+            "historico": ["COMPRA01", "COMPRA02", "COMPRA03"]
+        }
+    ]
+}
+
+{
+    "cadastro": [
+        {
+            "codigo": "0003-C",
+            "categoria": "cliente",
+            "status": "ativo",
+            "dia": 11,
+            "mes": 03,
+            "ano": 2019,
+        }
+    ],
+    "informacao": [
+        {
+            "nome": "Marcos alameda antonio",
+            "nascimento": [
+                {
+                    "dia": 27,
+                    "mes": 11,
+                    "ano": 2000
+                }
+            ],
+            "cpf": "777.777.777-77",
+            "endereco": [
+                {
+                    "cep": 77001054,
+                    "rua": "105 Norte Alameda dos Jotobás",
+                    "bairro": "Plano Diretor Norte",
+                    "cidade": "Palmas",
+                    "UF": "TO"
+                }
+            ],
+            "historico": ["COMPRA01", "COMPRA02", "COMPRA03"]
+        }
+    ]
+}
+
+{
+    "cadastro": [
+        {
+            "codigo": "0004-C",
+            "categoria": "cliente",
+            "status": "ativo",
+            "dia": 27,
+            "mes": 08,
+            "ano": 2021,
+        }
+    ],
+    "informacao": [
+        {
+            "nome": "rosa analitica mendes",
+            "nascimento": [
+                {
+                    "dia": 08,
+                    "mes": 04,
+                    "ano": 2020
+                }
+            ],
+            "cpf": "555.555.555-55",
+            "endereco": [
+                {
+                    "cep": 65010220,
+                    "rua": "Conjunto dos Ferroviários",
+                    "bairro": "Centro",
+                    "cidade": "São Luís",
+                    "UF": "MA"
+                }
+            ],
+            "historico": ["0002-P"]
+        }
+    ]
+}
+
+{
+    "cadastro": [
+        {
+            "codigo": "0005-C",
+            "categoria": "cliente",
+            "status": "ativo",
+            "dia": 23,
+            "mes": 06,
+            "ano": 2020,
+        }
+    ],
+    "informacao": [
+        {
+            "nome": "Pereira macintosh araujo",
+            "nascimento": [
+                {
+                    "dia": 01,
+                    "mes": 01,
+                    "ano": 2001
+                }
+            ],
+            "cpf": "222.222.222-22",
+            "endereco": [
+                {
+                    "cep": 65025830,
+                    "rua": "Rua Vinte e Um de Abril",
+                    "bairro": "Vila Passos",
+                    "cidade": "São Luís",
+                    "UF": "MA"
+                }
+            ],
+            "historico": ["none"]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+Em uma reunião executiva realizada na empresa Melhores Compras, surgiu o interesse em diminuir a taxa de abandono de clientes na fase de compra devido à lentidão encontrada em determinados momentos na plataforma de e-commerce. Atualmente, milhares de reais estão deixando de entrar no caixa da empresa devido a essas perdas, e precisamos que a tecnologia deixe de ser um entrave e se torne um facilitador para apoiar as decisões do negócio.
+
+Outro ponto é que a empresa irá disponibilizar em breve um serviço revolucionário, que possibilitará ao cliente optar por receber em até 24h o produto adquirido, ou seja, a tendência de um novo aumento no acesso à plataforma e nas vendas está prestes a acontecer.
+
+Claro que essa notícia é motivo de comemoração, principalmente para uma empresa que não esperava cumprir todas as suas metas comerciais em um curto espaço de tempo. Porém, do outro lado, a chegada dessa nova funcionalidade pode trazer graves consequências, dado que atualmente já existe um considerável aumento das reclamações sobre falta de desempenho tanto pelos clientes quanto pelos funcionários.
+
+Logo em seguida, após uma importante reunião técnica com a participação de mais de 50 profissionais qualificados, decidiu-se inicialmente que será necessário explorar novas estruturas de armazenamento de dados, e os bancos de dados NoSQL foram escolhidos para contribuir nesses estudos. Caso o resultado seja positivo, os escolhidos serão incorporados e acoplados à plataforma de e-commerce.
+
+Para realizar a atividade prática e identificar quais bancos de dados NoSQL atendem melhor à necessidade, três cenários foram criados pela área de negócio. São eles:
+
+3º cenário: A tela de detalhes de um produto sempre recebe novas informações e, hoje em dia, possui informações que podem ser armazenadas juntamente com o produto, tais como: reviews do produto; suas versões; informações de entrega; imagens; recomendações; dicas, entre outras.
+
+
+perguntas:
+
+1)    Escolha um cenário dentre os três e defina qual seria o nome do melhor banco de dados NoSQL para atender às necessidades de negócio. Justifique sua escolha citando um exemplo prático.
+
+2)    Instale esse Banco de Dados NoSQL (cloud, on premise, VM), realize o setup inicial e crie uma prática implementando uma nova estrutura de dados inicial pertinente ao cenário escolhido e apresente como é possível manipular e exibir dados nesse ambiente de trabalho.
+
+3)    Analisando os dados disponíveis da empresa Melhores Compras desde o início até o presente momento, identifique no mínimo duas importantes entidades que podem ser consideradas como dados mestres (MDM). Justifique o motivo da escolha. Cite no mínimo quatro atributos naturais que devem fazer parte de cada entidade.
+
+Link: https://www.mongodb.com/try/download/community
